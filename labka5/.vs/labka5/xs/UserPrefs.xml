@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8EE41A01-B94D-470B-8451-3401DC9EAEA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.labka5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="labka5/Figure.cs">
+    <Files>
+      <File FileName="labka5/Square.cs" Line="32" Column="1" />
+      <File FileName="labka5/Romb.cs" Line="31" Column="89" />
+      <File FileName="labka5/Circle.cs" Line="25" Column="13" />
+      <File FileName="labka5/Figure.cs" Line="22" Column="1" />
+      <File FileName="labka5/Form1.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
